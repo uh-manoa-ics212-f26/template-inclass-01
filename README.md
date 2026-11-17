@@ -26,6 +26,10 @@ Please push all your lab work (all code and written answers) to your repository.
 Practice 1 Submission: Each student must submit a copy of the pair's current library.c file at
 the end of the first class session, even if incomplete.
 
+All three submission checkpoints are mandatory. Incomplete work is acceptable for
+the two in-class submissions, but the final submission must include all required functionality from
+both practices.
+
 ## Late Work Policy
 
 Assignments may be submitted up to **24 hours late with a 20% grade penalty**. Assignments submitted more than 24 hours after the deadline will not be accepted, except in circumstances approved by the instructor.
